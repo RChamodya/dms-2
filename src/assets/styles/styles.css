@@ -1,0 +1,81 @@
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  /* background-color: #22c55e !important; */
+  background-image: url("../images//green4.jpg");
+}
+
+/* tabble header */
+.css-11k72hi-MuiTableCell-root.MuiTableCell-head {
+  background-color: #f7f9f9 !important;
+  color: black !important;
+  font-weight: bold !important;
+}
+.css-zxdg2z {
+  padding: 0 !important;
+}
+/* navbar */
+.css-hyum1k-MuiToolbar-root {
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.53) !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(14.8px) !important;
+  -webkit-backdrop-filter: blur(14.8px) !important;
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  background-color: #026c45 !important;
+}
+.css-ygqskj-MuiButtonBase-root-MuiButton-root {
+  color: #026c45 !important;
+  border-color: #026c45 !important;
+}
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  color: #026c45 !important;
+  border-color: #026c45 !important;
+}
+
+/* collaps button */
+.css-i4bv87-MuiSvgIcon-root {
+  color: white !important;
+}
+.css-1ddw50r-MuiSvgIcon-root {
+  color: #7b7d7d !important;
+}
+.css-qhea95-MuiButtonBase-root-MuiButton-root {
+  background-color: #026c45 !important;
+}
+/* .css-177gid-MuiTableCell-root {
+  cursor: not-allowed !important;
+} */
+.css-ypiqx9-MuiDialogContent-root {
+  padding: 0px 20px !important;
+}
+.css-1ex1afd-MuiTableCell-root {
+  border-bottom: 1px solid rgba(233, 232, 232, 0.432) !important;
+}
+.css-177gid-MuiTableCell-root {
+  border-bottom: 1px solid rgba(233, 232, 232, 0.432) !important;
+}
+
+.css-1go4nxh {
+  padding: 0 !important;
+}
+
+.footer {
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.12) !important;
+
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(16.1px) !important;
+  -webkit-backdrop-filter: blur(16.1px) !important;
+}
+.css-1n4twyu-MuiInputBase-input-MuiOutlinedInput-input {
+  color: gray !important;
+}
+
+/* @media {
+  .css-e5r485-MuiGrid-root > .MuiGrid-item {
+  }
+} */
+@media (min-width: 458px) {
+  .css-e5r485-MuiGrid-root > .MuiGrid-item {
+  }
+}
